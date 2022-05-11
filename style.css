@@ -1,0 +1,56 @@
+html {
+    background-color: aqua;
+    width:500vw auto;
+}
+
+.Navigation {
+    margin: 5% auto;
+    background-color: gray;
+    padding: 3%;
+    width:55%;
+    text-align: center;
+    font-size: 2vw;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Wingdings', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3vw;
+}
+
+.Blog {
+    margin: 5% auto;
+    background-color: rgb(53, 189, 26);
+    text-decoration-color: black;
+    padding: 3%;
+    width:50%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+}
+
+.About-me {
+    margin: 5% auto;
+    background-color: rgb(206, 100, 13);
+    padding: 3%;
+    width:50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2vw;
+}
+
+.Portfolio {
+    margin: 5% auto;
+    background-color: rgb(172, 14, 172);
+    padding: 3%;
+    width:50%;
+    font-family: fantasy;
+    font-size: 3vw;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
